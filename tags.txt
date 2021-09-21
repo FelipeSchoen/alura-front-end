@@ -1,0 +1,8 @@
+tag
+<strong> </strong> = negrito
+<em> </em>- italico.
+
+para o CSS
+
+Adiciona na tag do style
+
